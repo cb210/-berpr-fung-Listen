@@ -1,0 +1,29 @@
+from,to,year,type,pps,
+CDL,JAg,2020,1,"2,2",(selber ausgerechnet mit letzten 5 Spiele)
+JLMa,CDL,2020,2,"1,2",(selber ausgerechnet)
+VCF,Vo,2020,1,"1,4",(Interimstrainer)
+JG,VCF,2020,2,"1,4",
+ALA,JMu,2020,1,1,(selber ausgerechnet er hat aber nur 4 Spiele)
+PMa,ALA,2020,2,"0,8",
+RCDM,VM,2020,1,"0,8",
+LG,RCDM,2020,2,"1,6",
+ViCF,JaC,2020,1,"1,2",
+UM,ViCF,2020,2,"1,6",
+FCBa,QS,2020,1,"2,4",
+RK,FCBa,2020,2,"1,4",
+FCE,Pa,2020,1,"1,4",
+JA,FCE,2020,2,2,
+CV,OGa,2020,1,"0,4",
+EC,CV,2020,2,"2,4",
+AB,GGa,2021,1,"1,4",
+Ma,AB,2021,2,"1,4",
+SDH,Mi,2021,1,"0,2",
+Pa,SDH,2021,2,"0,8",
+ALA,PMa,2021,1,"0,8",
+Ab,ALA,2021,2,"0,8",
+FCE,JA,2021,1,"0,4",
+FE,FCE,2021,2,"1,2",
+ALA,Ab,2021,1,"0,2",
+JaC,ALA,2021,2,"1,6",
+VCF,JG,2021,1,"0,6",
+Vo,VCF,2021,2,"1,4",(Interimstrainer)
